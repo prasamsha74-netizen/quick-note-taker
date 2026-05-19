@@ -1,6 +1,6 @@
 
-(node:23392) UnhandledPromiseRejectionWarning: Error: Failed to load image from path 'C:\Users\user-34\Desktop\quick-note-taker123\tray-icon.png'
-    at C:\Users\user-34\Desktop\quick-note-taker123\main.js:78:12
+(node:23072) UnhandledPromiseRejectionWarning: Error: Failed to load image from path 'C:\Users\user-34\Desktop\electron-app\quick-note-taker\tray-icon.png'
+    at C:\Users\user-34\Desktop\electron-app\quick-note-taker\main.js:78:12
 (Use `electron --trace-warnings ...` to show where the warning was created)
-(node:23392) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
-C:\Users\user-34\Desktop\quick-note-taker123\node_modules\electron\dist\electron.exe exited with signal SIGINT
+(node:23072) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+C:\Users\user-34\Desktop\electron-app\quick-note-taker\node_modules\electron\dist\electron.exe exited with signal SIGINT
